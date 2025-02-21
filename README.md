@@ -1,5 +1,11 @@
 ### Olá! Eu sou o Pedro Juan 👋
 
+No último ano, mergulhei de cabeça no desenvolvimento de apps para iOS com SwiftUI. Nesse processo, acabei deixando meu GitHub de lado e percebi que não estava aproveitando todo o potencial da plataforma. Resolvi mudar isso.
+
+Estou atualizando tudo, organizando meus projetos e construindo o portfólio que nunca tive. Além do Swift, estou revisitando tecnologias como HTML, CSS e JavaScript, resgatando fundamentos e expandindo meu conhecimento.
+
+Ainda há muito o que melhorar, mas essa jornada já começou. 🚀
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-juan-ferreira-saraiva/)
 
 ![Pedro Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJuanOfc&show_icons=true&theme=dark)
