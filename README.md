@@ -10,8 +10,6 @@ Ainda há muito o que melhorar, mas essa jornada já começou. 🚀
 
 ![Pedro Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJuanOfc&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br/>
   <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
