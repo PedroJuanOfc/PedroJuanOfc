@@ -1,10 +1,8 @@
-### Olá! Eu sou o Pedro Juan 👋
+### Olá! Meu nome é Pedro Juan, seja bem-vindo ao meu perfil! 👋🏼
 
-No último ano, mergulhei de cabeça no desenvolvimento de apps para iOS com SwiftUI. Nesse processo, acabei deixando meu GitHub de lado e percebi que não estava aproveitando todo o potencial da plataforma. Resolvi mudar isso.
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor mobile, utilizando SwiftUI no dia a dia. No entanto, meu interesse pela programação vai além do desenvolvimento mobile. Atualmente, estou aprofundando meus conhecimentos em backend, estudando Java, Spring e banco de dados, áreas que tenho explorado com grande entusiasmo.
 
-Estou atualizando tudo, organizando meus projetos e construindo o portfólio que nunca tive. Além do Swift, estou revisitando tecnologias como HTML, CSS e JavaScript, resgatando fundamentos e expandindo meu conhecimento.
-
-Ainda há muito o que melhorar, mas essa jornada já começou. 🚀
+No curto prazo, meu objetivo é encontrar oportunidades onde eu possa contribuir ativamente e continuar evoluindo como profissional. No longo prazo, almejo ser referência no que faço, seja no desenvolvimento backend ou mobile.
 
 Caso tenha alguma dica de como acelerar meus estudos, podemos conversar. Obrigado por visitar meu perfil!!
 
