@@ -1,10 +1,8 @@
-### Olá! Meu nome é Pedro Juan, seja bem-vindo ao meu perfil! 👋🏼
+### Seja bem-vindo ao meu perfil! 👋🏼
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor mobile, utilizando SwiftUI no dia a dia. No entanto, meu interesse pela programação vai além do desenvolvimento mobile. Atualmente, estou aprofundando meus conhecimentos em backend, estudando Java, Spring e banco de dados, áreas que tenho explorado com grande entusiasmo.
+Eu sou o Pedro Juan, desenvolvedor de software na SAT Sistemas, onde atuo principalmente com Flutter e Delphi. Sou formado em Análise e Desenvolvimento de Sistemas e, apesar de hoje escrever código legado em Delphi, meu verdadeiro foco está no desenvolvimento mobile moderno: adoro criar interfaces com SwiftUI, explorar o ecossistema Flutter e tenho estudado um pouco sobre Java também.  
 
-No curto prazo, meu objetivo é encontrar oportunidades onde eu possa contribuir ativamente e continuar evoluindo como profissional. No longo prazo, almejo ser referência no que faço, seja no desenvolvimento backend ou mobile.
-
-Caso tenha alguma dica de como acelerar meus estudos, podemos conversar. Obrigado por visitar meu perfil!!
+Falo inglês avançado e espanhol intermediário (morei alguns anos no Paraguai) — comunicação é tão importante quanto código. Estou sempre em busca de novos desafios que me permitam crescer como dev full-stack, unindo front-end mobile e back-end de forma escalável.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-juan-ferreira-saraiva/)
 
