@@ -1,8 +1,14 @@
-### Seja bem-vindo ao meu perfil! 👋🏼
+### 👋🏼 Olá, seja bem-vindo ao meu perfil!  
 
-Eu sou o Pedro Juan, desenvolvedor de software na SAT Sistemas, onde atuo principalmente com Flutter e Delphi. Sou formado em Análise e Desenvolvimento de Sistemas e, apesar de hoje escrever código legado em Delphi, meu verdadeiro foco está no desenvolvimento mobile moderno. Gosto de criar interfaces com SwiftUI e Flutter, e tenho estudado um pouco sobre Java também.  
+Eu sou **Pedro Juan**, desenvolvedor de software na **SAT Sistemas**, formado em **Análise e Desenvolvimento de Sistemas**.  
 
-### Tecnologias & Ferramentas
+Atualmente, atuo principalmente com **Flutter** e **Delphi**, mas meu foco de carreira está no **desenvolvimento mobile moderno**, criando interfaces fluidas e performáticas com **SwiftUI** e **Flutter**.  
+
+Além disso, venho expandindo meus conhecimentos em **backend com Java e Spring**, buscando me tornar um profissional cada vez mais completo e versátil.  
+
+---
+
+### ⚙️ Tecnologias & Ferramentas  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift" height="30"/>
@@ -12,8 +18,12 @@ Eu sou o Pedro Juan, desenvolvedor de software na SAT Sistemas, onde atuo princi
   <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white" alt="SwiftUI" height="30"/>
 </p>
 
+---
 
-### Entre em contato
+### 📬 Entre em contato  
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-juan-ferreira-saraiva/)
+
+---
 
 ![Pedro Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJuanOfc&show_icons=true&theme=dark)
