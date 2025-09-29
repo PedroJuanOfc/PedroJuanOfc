@@ -1,26 +1,35 @@
-### Olá, seja bem-vindo ao meu perfil!  
+# Pedro Juan — Portfólio / Perfil
 
-Eu sou **Pedro Juan**, desenvolvedor de software, formado em **Análise e Desenvolvimento de Sistemas**.  
+Sou desenvolvedor Web & Mobile, formado em **Análise e Desenvolvimento de Sistemas**.  
+Atualmente estou **focado no desenvolvimento web**, priorizando código claro, responsivo e performático.
 
-Atualmente, atuo principalmente com **Flutter** e **Delphi**, mas meu foco de carreira está no **desenvolvimento mobile moderno**, criando interfaces fluidas e performáticas com **SwiftUI** e **Flutter**.  
+- **Web (atual):** HTML, CSS, JavaScript  
+- **Em estudo:** TypeScript, React, Node.js  
+- **Mobile:** Swift e Flutter  
+- **Backend:** Python
 
-Além disso, venho expandindo meus conhecimentos em **backend com Java e Spring**, buscando me tornar um profissional cada vez mais completo e versátil.  
+**Portfólio:** [acesse aqui](https://pedrojuan.dev)
 
 ---
 
-### Tecnologias & Ferramentas  
-
+## Tecnologias & Ferramentas
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift" height="30"/>
-  <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white" alt="SwiftUI" height="30"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" height="30"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="24"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="24"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111" alt="JavaScript" height="24"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="24"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" height="24"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" height="24"/>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift" height="24"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" height="24"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="24"/>
 </p>
 
 ---
 
-### Entre em contato  
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-juan-ferreira-saraiva/)
+## Contato
+- **LinkedIn:** https://www.linkedin.com/in/pedro-juan-ferreira-saraiva/  
+- **E-mail:** pedrosaraivaofc@gmail.com
 
 ---
 
