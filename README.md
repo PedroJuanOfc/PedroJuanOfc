@@ -31,6 +31,6 @@ Atualmente estou **focado no desenvolvimento web**, priorizando código claro, r
 - **LinkedIn:** https://www.linkedin.com/in/pedro-juan-ferreira-saraiva/  
 - **E-mail:** pedrosaraivaofc@gmail.com
 
----
+<!-- ---
 
-![Pedro Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJuanOfc&show_icons=true&theme=dark)
+![Pedro Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJuanOfc&show_icons=true&theme=dark) -->
