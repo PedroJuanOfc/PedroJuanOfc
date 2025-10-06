@@ -1,4 +1,4 @@
-# Pedro Juan — Portfólio / Perfil
+# Pedro Juan
 
 Sou desenvolvedor Web & Mobile, formado em **Análise e Desenvolvimento de Sistemas**.  
 Atualmente estou **focado no desenvolvimento web**, priorizando código claro, responsivo e performático.
