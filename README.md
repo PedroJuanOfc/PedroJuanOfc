@@ -1,18 +1,17 @@
 # Pedro Juan
 
-Sou desenvolvedor Web & Mobile, formado em **Análise e Desenvolvimento de Sistemas**.  
-Atualmente estou **focado no desenvolvimento web**, priorizando código claro, responsivo e performático.
+I am a Web & Mobile Developer, graduated in System Analysis and Development.
+Currently focused on web development, prioritizing clean, responsive, and high-performance code.
 
-- **Web:** HTML, CSS, JavaScript  
-- **Em estudo:** TypeScript, React, Node.js  
-- **Mobile:** Swift e Flutter  
+- **Web:** HTML, CSS, JavaScript, TypeScript, React, Node.js 
+- **Mobile:** Swift and Flutter 
 - **Backend:** Python
 
-**Portfólio:** [acesse aqui](https://pedrojuan.dev)
+**Portfolio:** [check here](https://pedrojuan.dev)
 
 ---
 
-## Tecnologias & Ferramentas
+## Technologies & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111" alt="JavaScript" height="24"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="24"/>
@@ -21,11 +20,12 @@ Atualmente estou **focado no desenvolvimento web**, priorizando código claro, r
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift" height="24"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" height="24"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="24"/>
-</p>
+</p>  
+
 
 ---
 
-## Contato
+## Contact
 - **LinkedIn:** https://www.linkedin.com/in/pedro-juan-ferreira-saraiva/  
 - **E-mail:** pedrosaraivaofc@gmail.com
 
