@@ -1,34 +1,62 @@
-# Pedro Juan
-
-I am a Web & Mobile Developer, graduated in System Analysis and Development.
-Currently focused on web development, prioritizing clean, responsive, and high-performance code.
-
-- **Web:** HTML, CSS, JavaScript, TypeScript, React, Node.js 
-- **Mobile:** Swift and Flutter 
-- **Backend:** Python
-
-**Portfolio:** [check here](https://pedrojuan.dev)
-
----
-
-## Technologies & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111" alt="JavaScript" height="24"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="24"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" height="24"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" height="24"/>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift" height="24"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" height="24"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="24"/>
-</p>  
+.github/workflows
 
 
----
+pacman.yml
 
-## Contact
-- **LinkedIn:** https://www.linkedin.com/in/pedro-juan-ferreira-saraiva/  
-- **E-mail:** pedrosaraivaofc@gmail.com
 
-<!-- ---
+README.md
 
-![Pedro Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJuanOfc&show_icons=true&theme=dark) -->
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
+<h1 align="center">Hi, I'm Pedro Juan 👋</h1>
+
+###
+
+<p align="left">I'm a Web & Mobile Developer, passionate about building clean, scalable, and high-performance applications.</p>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
+</div>
+
+###
+
+<p align="left">🌱 Currently focused on fullstack web development with TypeScript, React, and Node.js.</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
+
+###
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PedroJuanOfc&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroJuanOfc/PedroJuanOfc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroJuanOfc/PedroJuanOfc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroJuanOfc/PedroJuanOfc/output/pacman-contribution-graph.svg">
+</picture>
+
+###
