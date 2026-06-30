@@ -53,24 +53,6 @@ My main interests include:
 
 ---
 
-## Featured Projects
-
-Projects coming soon.
-
-Currently building infrastructure-focused backend and AI systems projects for production-oriented portfolio development.
-
----
-
-## Goals for 2026
-
-- Deepen cloud & infrastructure knowledge
-- Build production-ready backend systems
-- Improve distributed systems understanding
-- Contribute to scalable AI infrastructure projects
-- Work internationally as a software/infrastructure engineer
-
----
-
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/pedro-juan-ferreira-saraiva/
